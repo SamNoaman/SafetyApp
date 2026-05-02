@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Used to share your real-time location during an emergency alert</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Used to record video evidence during an emergency</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Used to capture audio during emergency video recording</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Used to save emergency video recordings to your photo library</string>
+</dict>
+</plist>
