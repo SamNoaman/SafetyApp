@@ -16,7 +16,7 @@ struct HomeView: View {
                     Image(systemName: "shield.checkered")
                         .font(.system(size: 60))
                         .foregroundStyle(.primary)
-                    Text("SafetyApp")
+                    Text("SOS Family Alert")
                         .font(.largeTitle.bold())
                     Text("Stay safe, stay connected")
                         .font(.subheadline)

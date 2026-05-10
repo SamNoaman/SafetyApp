@@ -2,7 +2,7 @@ import SwiftUI
 import SwiftData
 
 @main
-struct SafetyApp: App {
+struct SOSFamilyAlert: App {
     var body: some Scene {
         WindowGroup {
             HomeView()
